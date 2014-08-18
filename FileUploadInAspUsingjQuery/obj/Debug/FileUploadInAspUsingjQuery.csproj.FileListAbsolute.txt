@@ -1,0 +1,4 @@
+c:\users\jay.raj\documents\visual studio 2010\Projects\FileUploadInAspUsingjQuery\FileUploadInAspUsingjQuery\bin\FileUploadInAspUsingjQuery.dll
+c:\users\jay.raj\documents\visual studio 2010\Projects\FileUploadInAspUsingjQuery\FileUploadInAspUsingjQuery\bin\FileUploadInAspUsingjQuery.pdb
+c:\users\jay.raj\documents\visual studio 2010\Projects\FileUploadInAspUsingjQuery\FileUploadInAspUsingjQuery\obj\Debug\FileUploadInAspUsingjQuery.dll
+c:\users\jay.raj\documents\visual studio 2010\Projects\FileUploadInAspUsingjQuery\FileUploadInAspUsingjQuery\obj\Debug\FileUploadInAspUsingjQuery.pdb
